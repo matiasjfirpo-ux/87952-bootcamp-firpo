@@ -115,3 +115,34 @@ ax.text(
 plt.tight_layout()
 plt.show()
 ```
+```
+
+
+  # Busqueda en cloude
+```
+Quiero que uses el interprete de codigo para generarme un grafico de lineas  en matplotlib donde se muestre el valor de la accion de nvidia y msft en un mismo grafico
+```
+
+
+  * Respuesta de Cloude:
+```
+El problema no es específico de Yahoo Finance — es que mi entorno de código tiene una **lista fija de dominios permitidos**, y ninguno de ellos es un sitio financiero. Te muestro la lista completa a la que tengo acceso desde el intérprete:
+
+
+api.anthropic.com, api.github.com, archive.ubuntu.com, codeload.github.com,
+crates.io, files.pythonhosted.org, github.com, index.crates.io, npmjs.com,
+npmjs.org, pypi.org, pythonhosted.org, raw.githubusercontent.com,
+registry.npmjs.org, registry.yarnpkg.com, release-assets.githubusercontent.com,
+security.ubuntu.com, static.crates.io, www.npmjs.com, www.npmjs.org, yarnpkg.com
+
+
+Como ves, son solo repositorios de paquetes (PyPI, npm, GitHub, crates.io) y nada de APIs financieras — ni Yahoo, ni Stooq, ni Alpha Vantage, ni ninguna otra. Así que probar con "otra web" no va a funcionar mientras esta lista no se amplíe desde la configuración de la organización.
+
+Lo que sí puedo hacer ahora mismo:
+
+1. **Usar mi herramienta de búsqueda web** (separada del intérprete de código) para buscar precios recientes/puntuales de las top 5 tecnológicas — pero eso me da snapshots, no una serie histórica diaria completa para un buen gráfico de líneas.
+2. **Vos me subís un CSV/Excel** con los históricos y armo el gráfico al instante — esta sigue siendo la opción más confiable y rápida.
+
+¿Querés que intente armar algo aproximado con datos puntuales de la búsqueda web, o preferís subir un archivo con los históricos?
+
+```
