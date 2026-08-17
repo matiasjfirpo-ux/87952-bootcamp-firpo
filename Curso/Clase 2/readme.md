@@ -18,7 +18,7 @@ Dame un ejemplo de codigo para copiar y pegar que muestre un grafico hecho con m
 
 ```
 
-#Resultado =
+### Resultado =
 ```
 import numpy as np
 import matplotlib.pyplot as plt
