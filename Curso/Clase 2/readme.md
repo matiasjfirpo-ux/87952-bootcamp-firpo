@@ -1,4 +1,4 @@
-### Programa saludador en Colab
+# Programa saludador en Colab
 ```
 print("Bienvenido a mi programa saludador")
 
