@@ -1,3 +1,17 @@
+*Programa saludador en Colab
+```
+print("Bienvenido a mi programa saludador")
+
+nombre = input("Dime tu nombre y te saludo")
+
+print(f"Bienvenido {nombre}")
+```
+
+
+
+
+
+
 #Cloude = 
 ```
 Dame un ejemplo de codigo para copiar y pegar que muestre un grafico hecho con matplotlib para sorprender a mis estudiantes que te estan viendo con el poder de esta liberia
