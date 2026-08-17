@@ -1,4 +1,4 @@
-###Programa saludador en Colab
+#Programa saludador en Colab
 ```
 print("Bienvenido a mi programa saludador")
 
@@ -12,7 +12,7 @@ print(f"Bienvenido {nombre}")
 
 
 
-###Cloude = 
+#Cloude = 
 ```
 Dame un ejemplo de codigo para copiar y pegar que muestre un grafico hecho con matplotlib para sorprender a mis estudiantes que te estan viendo con el poder de esta liberia
 
