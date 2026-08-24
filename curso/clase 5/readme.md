@@ -40,3 +40,9 @@ while True:
     print(result)
 ```
 
+
+*Codigo para crear carpeta en en py:
+```
+import os
+os.environ["HF_HUB_CACHE"] = "./modelos"
+```
