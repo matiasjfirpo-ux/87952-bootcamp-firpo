@@ -23,7 +23,7 @@ result = classifier(texto)
 print(result)
 ```
 
-[!NOTE} Si quiero que tenga un loop, seria este codigo:
+[!NOTE] Si quiero que tenga un loop, seria este codigo:
 ```
 from transformers import pipeline
 
