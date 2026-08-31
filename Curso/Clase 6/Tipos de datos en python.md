@@ -8,7 +8,7 @@ Python tiene varios tipos de datos incorporados, organizados en las siguientes c
 * complex — números complejos: 3 + 4j
 
 ### Tipo de texto
-*str — cadenas de texto: "Hola mundo", 'Python'
+* str — cadenas de texto: "Hola mundo", 'Python'
 
 ### Tipo booleano
 * bool — valores lógicos: True o False
